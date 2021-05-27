@@ -4,10 +4,10 @@
 title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
 summary: ""
-authors: []
-tags: []
-categories: []
-journal: []
+author: 
+tags: 
+categories: 
+journal:
 date: {{ .Date }}
 lastmod: {{ .Date }}
 featured: yes

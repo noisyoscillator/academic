@@ -4,7 +4,7 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Pinaki Bhattacharyya # Website name
+title: PINAKI BHATTACHARYYA # Website name
 baseurl: 'https://pinaki-dev.netlify.app/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
@@ -25,6 +25,7 @@ module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
+    
 
 ############################
 ## ADVANCED

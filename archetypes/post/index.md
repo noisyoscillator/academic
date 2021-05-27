@@ -4,7 +4,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
 summary: ""
-authors: []
+author: []
 tags: []
 categories: []
 date: {{ .Date }}
@@ -40,9 +40,4 @@ reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: true  # Show author profile?
 commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
-
-## Enable a Markdown extension for diagrams by toggling the diagram 
-##   option in your `config/_default/params.toml` file or 
-##   by adding `diagram: true` to your page front matter.
-diagram: true
 ---
