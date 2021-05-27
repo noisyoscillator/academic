@@ -63,9 +63,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "pinaki.iisc@gmail.com"
@@ -76,5 +76,5 @@ highlight_name: true
 
 I am a PhD student working in the field of Soft Condensed Matter Theory and Polymer Dynamics with a focus on undestanding the role of fluctuations and noise in reaction kinetics, micro-nanoscale objects like single molecules, DNA, enzymes, and artificial molecular motors. Successful theoretical modelling of these systems utilizes the broader theory of stochastic processes, statistical mechanics, fluid dynamics, path integral and related field-theoretic methods for many-body systems to device effective approximation schemes in accounting the role of stochasticity, non-linearities and varied many-body interactions in condensed matter systems. Other research topics includes active matter systems, stochastic thermodynamics, theoretical micorfluidics, rheology and dynamics of complex fluids. Apart from these topics I take interest in Mathematical Finance, Complex systems and Network science.
 
-# Include CV below
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# Include CV (Uncomment the following the line)
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
