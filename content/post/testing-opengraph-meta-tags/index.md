@@ -11,7 +11,7 @@ subtitle: 'Lets see if this works'
 summary: ''
 authors: []
 lastmod: '2021-05-27T12:11:25+05:30'
-featured: no
+featured: false
 disable_jquery: no
 image:
   caption: 'Typical Microfluidic Experimental Setup'
