@@ -21,7 +21,7 @@ disable_jquery: false
 image:
   placement: 1
   caption: ""
-  focal_point: "center"
+  focal_point: "smart"
   preview_only: false
   alt_text: An optional description of the image for screen readers.
 
@@ -52,7 +52,6 @@ reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: true  # Show author profile?
 commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
-editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.    
 
 ## To enable LaTeX math rendering for a page, you should include `math: true` in the page’s front matter.
 ##   I have enabled math on the homepage or for all pages, by globally setting `math = true` in `config/_default/params`

@@ -21,14 +21,15 @@ interests:
 - Statistical Physics
 - Fluid Dynamics
 - Nonequilibrium Thermodynamics
+- Complex Systems
 - Quantitative Finance
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Theoretical Biophysics
-    institution: Stanford University
-    year: 2021
+    institution: Indian Institute of Science
+    
   - course: M.Sc. in Physical Chemistry
     institution: Banaras Hindu University
     
@@ -76,5 +77,3 @@ highlight_name: true
 
 I am a PhD student working in the field of Soft Condensed Matter Theory and Polymer Dynamics with a focus on undestanding the role of fluctuations and noise in reaction kinetics, micro-nanoscale objects like single molecules, DNA, enzymes, and artificial molecular motors. Successful theoretical modelling of these systems utilizes the broader theory of stochastic processes, statistical mechanics, fluid dynamics, path integral and related field-theoretic methods for many-body systems to device effective approximation schemes in accounting the role of stochasticity, non-linearities and varied many-body interactions in condensed matter systems. Other research topics includes active matter systems, stochastic thermodynamics, theoretical micorfluidics, rheology and dynamics of complex fluids. Apart from these topics I take interest in Mathematical Finance, Complex systems and Network science.
 
-# Include CV (Uncomment the following the line)
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
