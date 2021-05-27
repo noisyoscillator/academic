@@ -18,7 +18,7 @@ authors: [Pinaki Bhattacharyya]
 lastmod: '2021-05-24T21:17:43+05:30'
 featured: true
 image:
-  caption: 'Entropy Production'
+  caption: 'Image credit: [**John Moeses Bauan**](https://pinaki-dev.netlify.app/post/learning-entropy-production-via-neural-networks/featured.png)'
   focal_point: ''
   preview_only: false
 projects: []
