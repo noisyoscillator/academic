@@ -17,6 +17,7 @@ image:
   caption: 'Typical Microfluidic Experimental Setup'
   focal_point: ''
   preview_only: no
+  placement: 3
 projects: []
 reading_time: yes
 share: yes
