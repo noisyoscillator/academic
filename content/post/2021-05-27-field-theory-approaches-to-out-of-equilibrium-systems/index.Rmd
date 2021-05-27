@@ -36,7 +36,7 @@ We review and extend the formalism introduced by Peliti, that maps a Markov proc
 path-integral representation. After developing the mapping, we apply it to some illustrative
 examples: the simple decay process, the birth-and-death process, and the Malthus-Verhulst
 process. In the first two cases we show how to obtain the exact probability generating
-function using the path integral.
+function using the path integral $\sum a(x)x^{n}$.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLg--0sBHbqtPqqkauMGvntI2oH4KZqnMb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -49,4 +49,4 @@ is it working? ndjndjndfff
 
 ffgfgjfjfjg
 
-dfjdhfjhdjhfbl
+dfjdhfjhdjhfbljhjkh

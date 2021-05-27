@@ -21,6 +21,7 @@ interests:
 - Statistical Physics
 - Fluid Dynamics
 - Nonequilibrium Thermodynamics
+- Reaction Kinetics
 - Complex Systems
 - Quantitative Finance
 
