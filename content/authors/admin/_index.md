@@ -27,14 +27,14 @@ interests:
 education:
   courses:
   - course: PhD in Theoretical Biophysics
-    institution: Indian Institute of Science
+    institution: Stanford University
     year: 2021
-	
-  - course: MSc in Physical Chemistry
+  - course: M.Sc. in Physical Chemistry
     institution: Banaras Hindu University
-   
-  - course: B.Sc. in Chemistry
+    
+  - course: BSc in Chemistry
     institution: Banaras Hindu University
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
